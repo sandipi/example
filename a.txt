@@ -1,6 +1,7 @@
 <hi>the is my html page </hi>
 <<<<<<< Updated upstream
 commit 2
+<<<<<<< HEAD
 =======
 
 commit 1:
@@ -9,3 +10,5 @@ commit 3"
 commit 4:
  commmit 6 :
 >>>>>>> Stashed changes
+=======
+>>>>>>> f3d8b1b86f3efb765c7b871140aee723dc9e2a23
